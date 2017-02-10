@@ -1,0 +1,47 @@
+body > nav.navbar
+{
+    background-color: white;
+    margin-top: 0px;
+}
+.min_row
+{
+    margin-top: 70px
+}
+#bs-example-navbar-collapse-1 > ul > li > a {  opacity: 0.5; font-family: Montserrat; font-size: 18px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #000000; }
+#bs-example-navbar-collapse-1 > ul > li > a.active
+{opacity: 1;
+}
+div.date_minutes > ul > li {
+    padding: 0px 10px;
+}
+#sac_minutes > div:nth-child(1) > div.date_minutes > ul > li> a.active
+{
+    border-bottom: 2px solid black;
+}
+.month_minutes > ul
+{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-top: 50px;
+    padding-bottom: 64px;
+}
+.month_minutes > ul >li> a{text-transform: uppercase; font-family: Montserrat; font-size: 16px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: rgba(0, 0, 0, 0.37);  display: block;margin-right: 40px;text-decoration: none;
+}
+.month_minutes > ul >li> a.active{
+border-bottom: 2px solid black;
+    color: black;
+}
+.month_minutes > ul >li
+{
+    display: inline-block;
+}
+.minutes_heading
+{font-family: Montserrat; font-size: 24px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: rgba(0, 0, 0, 0.7); 
+}
+.minutes_cont
+{ width: 820px; height: 192px; font-family: Merriweather; font-size: 14px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: 1.71; letter-spacing: normal; color: rgba(0, 0, 0, 0.7); 
+}
+.minutes_particular_date
+{
+    margin-bottom: 75px;
+}
