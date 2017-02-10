@@ -301,3 +301,31 @@ padding: 16px;
 {
     background-color: white;
 }
+.image_container{
+    padding: 0px;
+}
+.footer_container
+{
+     margin-top: 60px;
+}
+.footer_links > li >a
+{ font-family: Montserrat; font-size: 18px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #ffffff; text-decoration: none;
+}
+.footer_links > li
+{
+    margin-bottom: 10px;
+}
+.footer_links
+{
+    list-style-type: none;
+    padding: 0px;
+}
+.footer_contact
+{ font-family: Montserrat; font-size: 24px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #ffffff; padding-bottom: 10px;
+}
+.fill1.white
+{background-color:  white;margin-bottom: 20px;}
+.address
+{ font-family: Montserrat; font-size: 18px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: 1.22; letter-spacing: normal; color: #ffffff; padding-bottom: 15px;
+}
+.contact_number{font-family: Montserrat; font-size: 18px; font-weight: normal; font-style: normal; font-stretch: normal; line-height: normal; letter-spacing: normal; color: #ffffff;padding-bottom: 15px; }
